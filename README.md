@@ -1,6 +1,4 @@
-## Yusung An
+# Yusung An
 KDMHS 18WP
 
-### Languages and Tools
-
-![Javascript](./javascript.svg)
+## Languages and Tools
