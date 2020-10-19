@@ -1,5 +1,6 @@
 # Yusung An
 KDMHS 18WP
+Web Frontend Developer
 
 ## Languages and Tools
 <div style="display: flex;">
