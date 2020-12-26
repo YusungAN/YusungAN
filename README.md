@@ -6,10 +6,10 @@ Web Frontend Developer
 <div style="display: flex;">
 <img src="./javascript.svg" width="50">
 <img src="./react.svg" width="50">
-<img src="./node-dot-js.svg" width="50">
-<img src="./flutter.svg" width="50">
-<img src="./java.svg" width="50">
-<img src="./c.svg" width="50">
+<img src="./node-dot-js.svg" width="30">
+<img src="./flutter.svg" width="30">
+<img src="./java.svg" width="30">
+<img src="./c.svg" width="30">
 </div>
 <br/>
 <br/>
