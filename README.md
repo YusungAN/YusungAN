@@ -1,6 +1,7 @@
 # Yusung An
 KDMHS 18WP <br/>
-Web Frontend Developer
+SKKU Software 22 <br/>
+Web Frontend Developer..?
 
 ## Languages and Tools
 <div style="display: flex;">
