@@ -12,6 +12,3 @@ SKKU Software 22 <br/>
 <img src="./c.svg" width="13">
 </div>
 <br/>
-<br/>
-
-[![=YusungAN's github stats](https://github-readme-stats.vercel.app/api?username=YusungAN)](https://github.com/anuraghazra/github-readme-stats)
